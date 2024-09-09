@@ -1,0 +1,15 @@
+.ant-upload .ant-upload-btn {
+    padding-top: 4px !important;
+}
+
+.highlight-row {
+    background-color: hsl(0, 1%, 86%); /* Apply background color to highlighted rows */
+}
+
+/* Add border after every highlighted row */
+.highlight-row + .other-row {
+    border-bottom: 1px solid #ddd; /* Add border between every pair of rows */
+}
+.ant-table {
+    background-color: transparent; /* Set the background color to transparent */
+}

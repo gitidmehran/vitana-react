@@ -1,0 +1,50 @@
+.custom-select-class {
+  width: 150px;
+}
+.green-option > .ant-select-selector {
+  background-color: lightgreen !important;
+}
+.pink-option > .ant-select-selector {
+  background-color: #f3beca !important;
+}
+.orange-option > .ant-select-selector {
+  background-color: rgb(255, 212, 155) !important;
+}
+.yellow-option > .ant-select-selector {
+  background-color: #ffdf93 !important;
+}
+.gray-option > .ant-select-selector {
+  background-color: lightgray !important;
+}
+
+.InputFileClass {
+  color: transparent;
+  border-radius: 6px;
+}
+
+.greenComment {
+  color: green;
+  font-size: 16px;
+}
+.pinkComment {
+  color: palevioletred;
+  font-size: 16px;
+}
+.yellowComment {
+  color: #ffc107;
+  font-size: 16px;
+}
+.blueComment {
+  color: #1890ff;
+  font-size: 16px;
+}
+.gapDetailsClass {
+  text-align: center;
+}
+.showNameAndDate {
+  font-size: 12px;
+}
+.viewDetails {
+  cursor: pointer;
+  color: #1890ff;
+}

@@ -1,0 +1,87 @@
+.dashboardCard {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 9px;
+  min-height: auto;
+}
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+  padding: 0;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.ant-card-body {
+  padding: 5px;
+}
+.ant-modal-mask {
+  backdrop-filter: blur(4px);
+}
+.textLeft {
+  text-align: left;
+}
+.tableTextCenter {
+  text-align: center;
+}
+.tableClass {
+  width: 100%;
+}
+.starFilled {
+  color: gold;
+}
+.compNonCompClass {
+  color: blue;
+  cursor: pointer;
+}
+.statusClass {
+  color: rgb(0, 110, 255);
+  cursor: pointer;
+}
+.totalPopulationClass {
+  min-height: 70px;
+}
+.selectInsPcp {
+  width: 100%;
+}
+.cardClass {
+  min-height: 130px;
+  max-height: 130px;
+}
+.iconClass {
+  font-size: 35px;
+}
+
+.greenStar {
+  color: yellowgreen;
+}
+.redStar {
+  color: #dc3545;
+}
+.pinkStar {
+  color: #f3beca;
+}
+.orangeStar {
+  color: rgb(250, 189, 110);
+}
+
+.active-group-class {
+  margin-top: -15px;
+}
+.compliantIcon {
+  color: #dc3545;
+}
+.nonCompliantIcon {
+  color: #dc3545;
+}
+.compliantIconBlank {
+  color: yellowgreen;
+}
+.nonCompliantIconBlank {
+  color: yellowgreen;
+}
+.nowrap {
+  white-space: nowrap;
+}

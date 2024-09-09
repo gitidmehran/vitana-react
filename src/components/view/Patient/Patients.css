@@ -1,0 +1,38 @@
+.custom-select-class {
+  width: 150px;
+}
+
+.green-option>.ant-select-selector {
+  background-color: lightgreen !important;
+}
+
+.pink-option>.ant-select-selector {
+  background-color: #f3beca !important;
+}
+
+.orange-option>.ant-select-selector {
+  background-color: rgb(250, 189, 110) !important;
+}
+
+.yellow-option>.ant-select-selector {
+  background-color: #ffdf93 !important;
+}
+
+.gray-option>.ant-select-selector {
+  background-color: lightgray !important;
+}
+
+.InputFileClass {
+  color: transparent;
+  border-radius: 6px;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.groupStatus {
+  width: 100%;
+  justify-content: center;
+  /* border: 1px solid #d9d9d9; */
+}
